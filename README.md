@@ -25,6 +25,9 @@ What are some reminders in order to stay in a growth mindset:
 - Just because you lose doesn't mean that you are lost **forever**. 
 
 
+[Class 2 Notes](https://keelen-fisher.github.io/reading-notes/)
+
+
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
 A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!
