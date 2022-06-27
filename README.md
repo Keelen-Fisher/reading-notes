@@ -27,7 +27,7 @@ What are some reminders in order to stay in a growth mindset:
 
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
 
-
+A **BIG** Thank you to Kassie Bradshaw for the amazing programming teachings!!
 
 
 
