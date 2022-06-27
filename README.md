@@ -10,7 +10,7 @@ What are some reminders in order to stay in a growth mindset:
 
 - Any phrases that you create within your mind that establishes negativity by saying that "you can't do something" or "you're not who you are supposed to be", place in a **"yet"** afterwards.
 - The minute that you start to give up and let go of your ambition, is the minute that you truly lose. You are going to miss the mark on some tasks but that does not mean that you can't try to find the mark again.
-- Just because you lose doesn't mean that you are lost forever. 
+- Just because you lose doesn't mean that you are lost **forever**. 
 
 
-My github portfolio right here: https://github.com/Keelen290509
+My github portfolio right here: https://github.com/Keelen-Fisher
