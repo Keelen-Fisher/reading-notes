@@ -1,6 +1,6 @@
 # Keelen Fisher's Reading Notes 
 
-Place Reading assignments (here)
+>Place Reading assignments (here)
 
 What is **Growth Mindset**?
 
@@ -16,4 +16,4 @@ What are some reminders in order to stay in a growth mindset:
 My github portfolio right here: [Keelen-Fisher](https://github.com/Keelen-Fisher)
 
 ## Who is ***Keelen Fisher?***
-[Keelen the Hero](https://unsplash.com/photos/PNVMQpDbxLk)
+![Keelen the Hero](https://unsplash.com/photos/PNVMQpDbxLk)
