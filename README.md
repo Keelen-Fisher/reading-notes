@@ -1,5 +1,5 @@
 # Keelen Fisher's Reading Notes
->*A Great Place to Start Coding, Because it **IS** Possible!!*
+*A Great Place to Start Coding, Because it **IS** Possible!!*
 
 
 ## Who is ***Keelen Fisher?***
