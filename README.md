@@ -13,4 +13,7 @@ What are some reminders in order to stay in a growth mindset:
 - Just because you lose doesn't mean that you are lost **forever**. 
 
 
-My github portfolio right here: https://github.com/Keelen-Fisher
+My github portfolio right here: [Keelen-Fisher](https://github.com/Keelen-Fisher)
+
+## Who is ***Keelen Fisher?***
+
