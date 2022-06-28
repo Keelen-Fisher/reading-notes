@@ -1,4 +1,4 @@
-# Revisions and the Cloud!
+# Revisions and the Cloud/ Git and GitHub!
 ![download](https://user-images.githubusercontent.com/108201205/176224245-8389cbc3-e320-43f3-b585-7adc117de8e5.jpg)
 
 ## Understanding git:
@@ -12,3 +12,9 @@
 - You are also able to keep track of your save states through saving and creating messages in each commit (or snapshot) 
 - The *head* , means that you are currently saved on this state right now. 
 
+## Understanding GitHub:
+- **NOT** a git
+- You can share code with other developers 
+
+## Repository:
+- It is a collection of files within git and GitHub
