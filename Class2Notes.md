@@ -13,7 +13,7 @@ What are some reminders in order to stay in a growth mindset:
 - The minute that you start to give up and let go of your ambition, is the minute that you truly lose. You are going to miss the mark on some tasks but that does not mean that you can't try to find the mark again.
 - Just because you lose doesn't mean that you are lost **forever**. 
 
->## What is Markdown? 
+## What is Markdown? 
 - A lightweight markup language for generating files, so customizing your text and structure in your website. Overall, markdown is the first step in creating webpages through github.
 From headings to paragraphs and images, markdown utilizes basic syntax to develop the template! 
 
