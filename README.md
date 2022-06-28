@@ -1,8 +1,8 @@
 # Keelen Fisher's Reading Notes
 > Fitness and Boxing Enthusiast
-> Nutritonal Coach 
-> BIG TIME Chef 
-> Most of all, excited about CodeFellows!
+>> Nutritonal Coach 
+>>> BIG TIME Chef 
+>>>> Most of all, excited about CodeFellows!
 
 *A Great Place to Start Coding, Because it **IS** Possible!!*
 
