@@ -28,11 +28,11 @@
                 
 		Understanding a Text Editor: 
 		- This has the ability to help you with writing and mangaging text and is involved with building a website. 
-		- A text editor also has the capability to program HTML and CSS with less strain, through features such as text and syntax highlighting, color 			  coordination, themes, and extensions. 
+		- A text editor also has the capability to program HTML and CSS with less strain, through features such as text and syntax highlighting, color, coordination, themes, and extensions. 
 		- Some VERY IMPORTANT rules to follow is to always save your data, all of it. 
 		- In the text editor, you will find your HTML files being classified as index.html, and CSS files being classified as style.css.
 		- There are plenty of third parties to choose from!!
 		
-		- Now you have the actual Terminals, varies between each computer, and the installation process will be explained in the module provided in canvas. 			Only thing you need to be mindful of in your notes is how to make your terminal a shortcut in your desktop!
+		- Now you have the actual Terminals, varies between each computer, and the installation process will be explained in the module provided in canvas. Only thing you need to be mindful of in your notes is how to make your terminal a shortcut in your desktop!
                 
               
