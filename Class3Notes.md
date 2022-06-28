@@ -28,6 +28,6 @@
 - Step 1: Add. You want to add in a class by using ***git add class .md***
 - Step 2: Commit. place in your desired notes by using ***git commit -m "Whatever you want to add"***
 - Step 3: Push. Push class into github by using ***git push origin main*** 
-- Example: 
+ 
 ![Placing in new files in repository in git hub Code 102](https://user-images.githubusercontent.com/108201205/176253159-a4df36d4-1a3f-486d-8bc6-c6068f01c45f.png)
 
