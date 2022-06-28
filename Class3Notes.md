@@ -18,3 +18,5 @@
 
 ## Repository:
 - It is a collection of files within git and GitHub
+- Keep your projects ***SEPERATED!***
+- Every time that you make a new repository, go to settings and save first to create the web url, then choose theme
