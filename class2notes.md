@@ -41,5 +41,5 @@ The perfect text editor can be different depending on the person that you're ask
 [Home:](https://keelen-fisher.github.io/reading-notes/)
 
 	 
-	   
+
 	   
