@@ -1,37 +1,45 @@
 # The Coder's Computer:
->## The Terminal (AKA, Where Stuff Get's **REAL**!)
+>## Choosing a Text Editor ***(Choosing the Right Editor Varies between each person)***
+## "Choose your Character"
+### - Where to Start?
+The perfect text editor can be different depending on the person that you're asking. Overall, a text editor is your helper, that assists in mangement of your writings which can help you for when you create your website. 
+- A few features to pay attention to when you're looking for the right editor:
+  	- Can your syntax be **highlighted**?
+  	- Can you choose between a plethora of themes that matches with your own creation? 
+  	- Are you able to significantly finish your programs without having to put so much stress physically and mentally as before?
+  	- And Lastly, can this editor assist you in staying organized throughout the entire time that you're writing your program?
+  These are only some of the recommendations. 
+  
+  ### So What Are Some Already-Known Options?
+  - Just to name a few:
+          - NotePad++
+          - TextWrangler 
+          - BB Edit
+          - Visual Studio Code
+          - Atom
+          
+	  
+>## IDEs 
+**IDE (Integrated Developement Environement)** is next level, where you have the following sofwares compiled together to make an IDE:
+           - Text Editor 
+           - Complier
+           - Manager 
+           - Debugger 
 
-	- To create a new file, click on add file in your main page of Git Hub and name the file with .md after the text 
-	
-	- Creating Terminal Tasks:
-		○ PWD (Print Working Directory) [Where am I command] after you press enter, it should display your current location. (In which folder?) 
-		○ Command: LS (List) Listing all of the directory items. (What's in this folder?)
-		○ Cd (Change Directory) 
-			§ So if I want to change the directory, type: cd [Enter directory or beginning letter of it] then enter tab (Don’t forget that!!
-		○ EX:
-			§ Cd codefellows-work
-			§ Codefellows-work pwd
-			§ Codefellows-work ls
-		○ Mkdir: Make new Directions 
-		○ How do we go back? Enter your periods. The number the periods they are, the farther you go back. 
-		○ What does argument mean? Means that it is a request of a new line. 
-		○ Touch: command to make a file.
-			§ EX: touch hiclass.md (after you press enter in the terminal, a file will pop up in the file explorer
-		○ Code . (means to code in the specific file)
-		○ After you type In code . You can open the file and start to code that file. 
-	- Going from text to index (from Markdown to HTML) 
-		○ Moving over to HTML, 
-		○ Emmet Abbreviation: options that you can choose (Like a template) 
-			§ EX: when you type in html, and there's an option that pops up <html></html>
-		○ Tip 1: If you want to multiply headers, sections, main, etc., type in the name (header*3) and it will produce three separate sections!
-		○ Tree: Displays the description and display of the area of your file explorer. 
-                		Understanding a Text Editor: 
-		- This has the ability to help you with writing and managing text and is involved with building a website. 
-		- A text editor also has the capability to program HTML and CSS with less strain, through features such as text and syntax highlighting, color, coordination, themes, and extensions. 
-		- Some VERY IMPORTANT rules to follow is to always save your data, all of it. 
-		- In the text editor, you will find your HTML files being classified as index.html, and CSS files being classified as style.css.
-		- There are plenty of third parties to choose from!!
-		
-		- Now you have the actual Terminals, varies between each computer, and the installation process will be explained in the module provided in canvas. Only thing you need to be mindful of in your notes is how to make your terminal a shortcut in your desktop!
-                
-              
+>## TERMINALS (The Creation of your Asstant..... Can Take forever)
+### Creating Terminal Tasks
+
+- PWD (Print Working Directory, or The "Where Am I Command") Showing Which Folder?
+- Command: ls (List) Listing all of the directory Items. (What's in this folder?)
+- cd (Change Directory) 
+   - So if I want to change the directory, type: cd then tab, don't forget that!
+- mkdir: Make new directions 
+- touch: command to make a file.
+- code . (means to code in the specific file)
+- tree: Displays the description and display of the area of your file explorer.
+
+
+
+	 
+	   
+	   
