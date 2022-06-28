@@ -38,7 +38,7 @@ The perfect text editor can be different depending on the person that you're ask
 - code . (means to code in the specific file)
 - tree: Displays the description and display of the area of your file explorer.
 
-
+[Home:](https://keelen-fisher.github.io/reading-notes/)
 
 	 
 	   
