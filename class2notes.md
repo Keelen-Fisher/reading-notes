@@ -26,5 +26,8 @@
 		○ Tip 1: If you want to multiply headers, sections, main, etc., type in the name (header*3) and it will produce three separate sections!
 		○ Tree: Displays the description and display of the area of your file explorer. 
                 
+		 ## Understanding a Text Editor: 
+		- This has the ability to help you with writing and mangaging text and is involved with building a website. 
+		- A text editor also has the capability to program HTML and CSS with less strain, through features such as text and syntax highlighting, color 			  coordination, 
                 
-                [Back to Home Page:](https://keelen-fisher.github.io/reading-notes/)
+              
