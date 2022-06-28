@@ -8,5 +8,7 @@
 - Multiple developers can work on the same code and records the history of our changes 
 - A way to share code and collaboration 
 - dvcs (Distrinuted version control system)
->### So basically, it's like havinag **ALL** of your saved files and workings in one repository!!
+>### So basically, it's like having **ALL** of your saved files and workings in one repository!!
+- You are also able to keep track of your save states through saving and creating messages in each commit (or snapshot) 
+- The *head* , means that you are currently saved on this state right now. 
 
