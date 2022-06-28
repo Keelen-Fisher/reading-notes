@@ -20,8 +20,13 @@
 - It is a collection of files within git and GitHub
 - Keep your projects ***SEPERATED!***
 - Every time that you make a new repository, go to settings and save first to create the web url, then choose theme
-- How to clone your git hub through the terminal: 
+- How to clone your git hub through the terminal: ![](https://user-images.githubusercontent.com/108201205/176253041-18cd5707-fbc4-4fed-945a-d3f476b20751.png)
+
+
+
 ### ACP The Three Step Process: Add, Commit and Push 
 - Step 1: Add. You want to add in a class by using ***git add class .md***
 - Step 2: Commit. place in your desired notes by using ***git commit -m "Whatever you want to add"***
 - Step 3: Push. Push class into github by using ***git push origin main*** 
+- Example: ![Placing in new files in repository in git hub Code 102](https://user-images.githubusercontent.com/108201205/176253159-a4df36d4-1a3f-486d-8bc6-c6068f01c45f.png)
+
