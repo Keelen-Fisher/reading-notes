@@ -10,7 +10,7 @@ The perfect text editor can be different depending on the person that you're ask
   	- And Lastly, can this editor assist you in staying organized throughout the entire time that you're writing your program?
   These are only some of the recommendations. 
   
-  ### So What Are Some Already-Known Options?
+  >So What Are Some Already-Known Options?
   - Just to name a few:
           - NotePad++
           - TextWrangler 
