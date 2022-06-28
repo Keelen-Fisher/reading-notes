@@ -27,7 +27,7 @@ What are some reminders in order to stay in a growth mindset:
 
 - [Class 1 Notes - Introduction and Growth Mindset:](https://keelen-fisher.github.io/reading-notes/Class2Notes)
 - [Class 2 Notes - The Coder's Computer:](https://keelen-fisher.github.io/reading-notes/class2notes)
-- [Class 3 Notes - Revisions and the Cloud!(https://keelen-fisher.github.io/reading-notes/Class3Notes)
+- [Class 3 Notes - Revisions and the Cloud!](https://keelen-fisher.github.io/reading-notes/Class3Notes)
 
 
  [Click Here to go to my Portfolio!!](https://github.com/Keelen-Fisher)
