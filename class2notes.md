@@ -25,3 +25,6 @@
 			§ EX: when you type in html, and there's an option that pops up <html></html>
 		○ Tip 1: If you want to multiply headers, sections, main, etc., type in the name (header*3) and it will produce three separate sections!
 		○ Tree: Displays the description and display of the area of your file explorer. 
+                
+                
+                [Back to Home Page:](https://keelen-fisher.github.io/reading-notes/)
