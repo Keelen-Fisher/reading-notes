@@ -25,9 +25,8 @@
 			§ EX: when you type in html, and there's an option that pops up <html></html>
 		○ Tip 1: If you want to multiply headers, sections, main, etc., type in the name (header*3) and it will produce three separate sections!
 		○ Tree: Displays the description and display of the area of your file explorer. 
-                
-		Understanding a Text Editor: 
-		- This has the ability to help you with writing and mangaging text and is involved with building a website. 
+                		Understanding a Text Editor: 
+		- This has the ability to help you with writing and managing text and is involved with building a website. 
 		- A text editor also has the capability to program HTML and CSS with less strain, through features such as text and syntax highlighting, color, coordination, themes, and extensions. 
 		- Some VERY IMPORTANT rules to follow is to always save your data, all of it. 
 		- In the text editor, you will find your HTML files being classified as index.html, and CSS files being classified as style.css.
