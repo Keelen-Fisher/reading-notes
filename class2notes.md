@@ -26,7 +26,7 @@ The perfect text editor can be different depending on the person that you're ask
            - Manager 
            - Debugger 
 
->## TERMINALS (The Creation of your Asstant..... Can Take forever)
+>## TERMINALS (The Creation of your Assistant..... Can Take forever)
 ### Creating Terminal Tasks
 
 - PWD (Print Working Directory, or The "Where Am I Command") Showing Which Folder?
